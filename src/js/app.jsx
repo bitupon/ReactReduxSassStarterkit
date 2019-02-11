@@ -1,5 +1,4 @@
 import React from 'react';
-import Reactdom from 'react-dom';
 
 export default class App extends React.Component{
     constructor(props){
